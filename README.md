@@ -1,2 +1,2 @@
 # Sketch-Drawing-of-Messi-s-Face-Python
-A bucnh of text files are here and each file are containing coordinates list.
+48 text files are here. Each file is containing a coordinates list.
